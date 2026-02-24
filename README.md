@@ -69,12 +69,15 @@ Predicting prices for new car inputs based on trained model.
 🛠️ Setup & Installation
 
 1. Clone the Repository
+   
 git clone https://github.com/ShadrackScofieldMwangi/Car_Price_Prediction_Model.git
+
 cd Car_Price_Prediction_Model
 
 3. Install Dependencies
 
 Make sure you have Python 3.7+ installed, then install:
+
 pip install pandas numpy scikit-learn matplotlib seaborn notebook
 
 3. Run the Notebook
